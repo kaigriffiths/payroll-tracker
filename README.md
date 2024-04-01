@@ -8,8 +8,10 @@ WHEN you click the "Add employee" button then you are presented with a series of
 then the employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data.
 
 ## Sources
-https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
-https://www.w3schools.com/jsref/event_onclick.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt,
+
+https://www.w3schools.com/jsref/event_onclick.asp,
+
 https://www.w3schools.com/js/js_random.asp
 
 
