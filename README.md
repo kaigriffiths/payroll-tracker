@@ -7,5 +7,5 @@ As a payroll manager I want an employee payroll tracker, so that I can see my em
 WHEN you click the "Add employee" button then you are presented with a series of prompts asking for first name, last name, and salary. Then when you are finished adding an employee, then you will be prompted to continue or cancel. If you choose to continue, then you are prompted to add a new employee. If you choose to cancel
 then the employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data.
 
-##Link: 
+## Link: 
 https://kaigriffiths.github.io/payroll-tracker/
